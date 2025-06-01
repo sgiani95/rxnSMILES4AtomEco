@@ -1,0 +1,6 @@
+CC(C)Cc1ccccc1.CC(=O)OC(C)=O>F>CC(=O)c1ccc(CC(C)C)cc1
+CC(=O)c1ccc(CC(C)C)cc1.[HH]>Ni-Raney>CC(C)Cc1ccc(C(C)O)cc1
+CC(C)Cc1ccc(C(C)O)cc1.[C-]#[O+]>Pd>CC(C)Cc1ccc(C(C)C(=O)O)cc1
+
+CC(C)Cc1ccccc1.CC(=O)OC(C)=O.[HH].[C-]#[O+]>>CC(C)Cc1ccc(C(C)C(=O)O)cc1
+#https://www.scranton.edu/faculty/cannm/green-chemistry/english/organicmodule.shtml#:~:text=Atom%20Economy%20in%20Syntheses,into%20the%20desired%20final%20product.

@@ -1,0 +1,40 @@
+#############
+# THF Reppe #
+#############
+
+{2}C(=O)=O.{6}[HH]>>{2}CO
+{2}CO.O=O>>{2}C=O
+
+{2}C.{1.5}O=O>>C#C
+
+C#C.{2}C=O>>C(C#CCO)O
+C(C#CCO)O.{2}[HH]>>C(CCO)CO
+C(CCO)CO>>C1CCOC1
+
+########################
+# THF Mitsubishi Kasei #
+########################
+
+{2}C(=O)=O.{6}[HH]>>{2}CO
+{2}CO.{2}[C-]#[O+]>>{2}CC(=O)O
+
+CCCC>>CCC=C
+CCC=C>>C=CC=C
+
+{2}CC(=O)O.C=CC=C.{0.5}O=O>>CC(=O)OCC=CCOC(=O)C
+CC(=O)OCC=CCOC(=O)C.[HH]>>CC(=O)OCCCCOC(=O)C
+CC(=O)OCCCCOC(=O)C.O>>C1CCOC1
+
+#########################
+# 2-MeTHF from furfural #
+#########################
+
+C1[C@H]([C@@H]([C@H](C(O1)O)O)O)O>>C1=COC(=C1)C=O
+C1=COC(=C1)C=O.[HH]>>C1=COC(=C1)CO
+C1=COC(=C1)CO.[HH]>>CC1=CC=CO1
+CC1=CC=CO1.{2}[HH]>>CC1CCCO1
+
+
+C1[C@H]([C@@H]([C@H](C(O1)O)O)O)O.[HH].[HH].{2}[HH]>>CC1CCCO1
+
+

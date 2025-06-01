@@ -1,0 +1,24 @@
+CC(C)Cc1ccccc1.CC(=O)OC(C)=O>[Al](Cl)(Cl)Cl>CC(=O)c1ccc(CC(C)C)cc1
+CC(=O)c1ccc(CC(C)C)cc1.[Na+].CC[O-].CCOC(=O)CCl>>CCOC(=O)C1OC1(C)c2ccc(CC(C)C)cc2
+CCOC(=O)C1OC1(C)c2ccc(CC(C)C)cc2.[OH3+]>>CC(C)Cc1ccc(C(C)C=O)cc1
+CC(C)Cc1ccc(C(C)C=O)cc1.NO>>CC(C)Cc1ccc(C(C)C=NO)cc1
+CC(C)Cc1ccc(C(C)C=NO)cc1>>CC(C)Cc1ccc(C(C)C#N)cc1
+CC(C)Cc1ccc(C(C)C#N)cc1.O.O>>CC(C)Cc1ccc(C(C)C(=O)O)cc1
+
+
+
+https://www.scranton.edu/faculty/cannm/green-chemistry/english/organicmodule.shtml#:~:text=Atom%20Economy%20in%20Syntheses,into%20the%20desired%20final%20product.
+
+
+
+
+Hydrogen can be manufactured by reacting methane with steam:
+
+CH4(g) + H2O(g) → 3H2(g) + CO(g)
+"C.O>>[HH].[HH].[HH]"
+
+https://betterscientificsoftware.github.io/python-for-hpc/tutorials/python-pypi-packaging/
+https://www.freecodecamp.org/news/how-to-create-and-upload-your-first-python-package-to-pypi/
+https://www.turing.com/kb/how-to-create-pypi-packages
+https://towardsdatascience.com/create-your-own-python-package-and-publish-it-into-pypi-9306a29bc116
+https://realpython.com/pypi-publish-python-package/
