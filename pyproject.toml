@@ -1,6 +1,6 @@
 [project]
 name = "rxnSMILES4AtomEco"
-version = "2025.3.04"
+version = "2025.06.01"
 authors = [
   { name = "Samuele Giani", email = "samuele.giani@gmail.com" }
 ]
@@ -17,8 +17,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/rxnSMILES4AtomEco"
-Issues = "https://github.com/yourusername/rxnSMILES4AtomEco/issues"
+Homepage = "https://github.com/sgiani95/rxnSMILES4AtomEco"
+Issues = "https://github.com/sgiani95/rxnSMILES4AtomEco/issues"
 
 [build-system]
 requires = ["setuptools>=65", "wheel"]

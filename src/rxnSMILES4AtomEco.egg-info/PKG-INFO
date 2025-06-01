@@ -1,10 +1,10 @@
-Metadata-Version: 2.2
+Metadata-Version: 2.1
 Name: rxnSMILES4AtomEco
-Version: 2025.3.4
+Version: 2025.6.1
 Summary: Calculate atom economy for chemical reactions using reaction SMILES
 Author-email: Samuele Giani <samuele.giani@gmail.com>
-Project-URL: Homepage, https://github.com/yourusername/rxnSMILES4AtomEco
-Project-URL: Issues, https://github.com/yourusername/rxnSMILES4AtomEco/issues
+Project-URL: Homepage, https://github.com/sgiani95/rxnSMILES4AtomEco
+Project-URL: Issues, https://github.com/sgiani95/rxnSMILES4AtomEco/issues
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
 Classifier: Operating System :: OS Independent
